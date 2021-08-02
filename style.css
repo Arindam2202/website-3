@@ -1,0 +1,28 @@
+h1{
+    background-color: #FF1700;
+    color:#FFFFFF;
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0800FF;
+}
+h3{
+    color: crimson;
+    margin-left: 50px 
+    
+}
+h4{
+    color: cornflowerblue;
+    margin-left: 50px  ;
+}
+.div2:hover img {
+    opacity: 0.33;
+
+}
+a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+}
